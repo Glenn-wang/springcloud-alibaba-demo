@@ -28,6 +28,7 @@
         <module>springcloud-alibaba-consumer</module>
         <module>springcloud-alibaba-config</module>
         <module>springcloud-alibaba-sentinel</module>
+        <module>springcloud-alibaba-provider-api</module>
     </modules>
 
     <dependencyManagement>
